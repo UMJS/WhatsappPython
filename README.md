@@ -218,4 +218,4 @@ https://devaprender.com/como-criar-um-bot-no-whatsapp/
 
 # Volte sempre! # 😉
 
-![Foto de UMJS](https://scontent.ffor11-1.fna.fbcdn.net/v/t1.0-9/70713611_2418334764888591_8632977409915748352_o.jpg?_nc_cat=111&ccb=2&_nc_sid=84a396&_nc_eui2=AeFvNFlYmLBYQEJWBySuYIxgmGmpj5pPTMqYaamPmk9MymeSQYuZp-2UpMCEEcPe8PQ15fFd9HeL9uJ4yYFMiaLk&_nc_ohc=e3yzaDzY5yEAX8pcw-Z&_nc_ht=scontent.ffor11-1.fna&oh=7ee6bc0ee465207313b717c85437f4b3&oe=5FE19A8A)
+![Foto de UMJS](https://user-images.githubusercontent.com/67008429/134401660-4f382804-bb0f-4c5a-9d67-83c707ca60cb.png)
